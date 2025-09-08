@@ -1,6 +1,7 @@
 https://userweatherapp.netlify.app/
 
 
-<img width="1835" height="880" alt="image" src="https://github.com/user-attachments/assets/f9b9d7df-6785-4b37-a68d-61d7e7c55d1f" />
+<img width="1588" height="874" alt="image" src="https://github.com/user-attachments/assets/8961af82-5415-4768-951a-66af7fdd7489" />
+
 
 
