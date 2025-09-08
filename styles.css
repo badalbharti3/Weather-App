@@ -1,7 +1,8 @@
 body {
     height: 100vh;
     margin: 0;
-    background:#3a2a3a;
+    background: url('image.png') no-repeat center center fixed;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,14 +99,3 @@ body {
     display: none;
 }
 
-#bg-video {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100vw;
-  min-height: 100vh;
-  width: auto;
-  height: auto;
-  z-index: -1;
-  object-fit: cover;
-}
